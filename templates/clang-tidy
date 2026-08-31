@@ -1,0 +1,4 @@
+@@ TEMPLATE ARGUMENTS:
+@@ %1$s = cxx_std
+Checks: 'bugprone-*,performance-*,readability-*,modernize-*'
+HeaderFilterRegex: 'include/.*'

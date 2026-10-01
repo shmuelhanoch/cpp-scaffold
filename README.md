@@ -1,5 +1,7 @@
 # cpp-scaffold
 
+[![CI](https://github.com/shmuelhanoch/cpp-scaffold/actions/workflows/ci.yml/badge.svg)](https://github.com/shmuelhanoch/cpp-scaffold/actions/workflows/ci.yml)
+
 A simple CLI for C++ new project generation, written in Janet. 
 
 The CLI will generate the following project structure, were the tests rely on **[boost-ut](https://github.com/boost-ext/ut)**.
